@@ -9,57 +9,49 @@
   const footerLinks = ['Home','About','Subscribe','Archive','Advertising','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Privacy Policy';
-  let pageKicker = 'Your Data & Ours';
+  let pageKicker = 'Your Data is Ours';
   let activePage = '';
 
   const sections = [
     {
       heading: 'What We Collect',
-      body: `When you visit The Garlic, we collect certain information about you. We collect it whether you consent or not, but we feel better when you consent, so we have built this page. Specifically, we collect your IP address, browser type, device information, pages visited, time spent on each page, and a general sense of who you are as a person. We do not collect your deepest fears, though our advertising partners have made enquiries.
-
-If you create an account or subscribe, we also collect your name, email address, billing information, and reading habits. We find your reading habits particularly interesting. You have eclectic taste.`
+      body: `Here at The Garlic we respect you, we respect you so much in fact that we as a company, have made it part of our mission statement to learn as much about you as possible. Despite our mission statement for ethics reasons we only collect your date of birth, advertising data, credit card information, social security number, mother's maiden name, father's maiden name, the name of your first-born, home address, medical records, family tree, genetic information, fingerprint, platelet count, blood type, marital status, tax bracket, search history, reddit username, government issued ID, medical records again, immigration status, ethnicity, religion, height, weight, BMI, Operating system, IP address, medical records once more for good measure, etc.  `
     },
     {
       heading: 'How We Use It',
-      body: `We use your information to provide, maintain, and improve our services — which is to say, to keep the website running and to ensure you continue receiving journalism of our particular quality. We also use it to send you newsletters you may or may not have requested, to personalise your experience in ways that benefit us more than you, and to comply with legal obligations we would rather not have.
-
-We do not sell your personal data. We have been advised to say this clearly and without qualification. We are doing so now.`
+      body: `We sell it to any advertiser that will have us, see, we live in a capitalist society, for a such an honorable newspaper like The Garlic, ourselves, to pay the multi-million dollar salaries of our C-suite executives we need to provide the bare minimum service, while bringing in as much revenue as possible, to do this we are going to sell every drop of your data to advertisers`
     },
     {
       heading: 'Cookies',
-      body: `The Garlic uses cookies. These are small text files placed on your device that allow us to remember you between visits, track your behaviour across the site, and, in the case of third-party advertising cookies, follow you around the internet with a persistence that some readers have described as "unsettling." We prefer the term "attentive."
-
-You may disable cookies in your browser settings. If you do, some features of this site will not function correctly. We have listed those features elsewhere. We have not made that list easy to find.`
+      body: `The Garlic likes cookies, yum yum.`
     },
     {
       heading: 'Third Parties',
-      body: `We share data with a number of third-party service providers who assist us in operating this website, conducting our business, and servicing our readers. These parties are contractually obligated to keep your information confidential. We check on this periodically. Our last check was some time ago.
-
-We may also share information when required by law, in response to valid legal process, or when we believe in good faith that disclosure is necessary to protect our rights, your safety, or the safety of others. We have not yet had occasion to invoke this clause, but we feel better having it here.`
+      body: `Whoever buys your data.`
     },
     {
       heading: 'Data Retention',
-      body: `We retain your personal information for as long as your account is active, or as long as is necessary to provide you services, or as long as is required by law, whichever is longest. In practice, this means we keep your data for a very long time. If you would like us to delete it, please see the section below. We will comply within a reasonable timeframe, which we define at our own discretion.`
+      body: `Everything is retained. No, we won't delete it, stop asking.`
     },
     {
       heading: 'Your Rights',
-      body: `Depending on your jurisdiction, you may have the right to access, correct, or delete your personal data; to object to or restrict certain processing; to data portability; and to lodge a complaint with a supervisory authority. We support all of these rights in principle. To exercise them in practice, please contact our privacy desk using the address below. We respond to all requests in the order they are received, which is to say, eventually.`
+      body: ``
     },
     {
       heading: 'Children',
-      body: `The Garlic is not directed at children under the age of 13, and we do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child, please contact us immediately. We will be surprised, and then we will address it.`
+      body: `The Garlic is directed at children under the age of 13, and we knowingly collect personal information from children under 13. If you believe we have advertently collected information from a child, you're probably right, take your complaint up with the complaints deparment at nobodycares@thegarlic.com.`
     },
     {
       heading: 'Changes to This Policy',
-      body: `We may update this Privacy Policy from time to time. When we do, we will revise the date at the top of this page. We may or may not notify you of significant changes by email, depending on how significant we consider them to be, which may differ from your assessment. We encourage you to review this page periodically. We do not expect you to. But we encourage it.`
+      body: `Whenever, we'll let you know (no we won't).`
     },
     {
       heading: 'Contact',
-      body: `Questions, concerns, or formal complaints regarding this Privacy Policy may be directed to our Privacy Desk at privacy@thegarlic.com. We read all correspondence. We do not always reply, but we read it. If you have not heard back within 30 days, please write again. We find the persistence endearing.`
+      body: `We're not gonna listen but if you still feel like voicing your incorrect opinion the email is made up but send your complaints to nobodycares@thegarlic.com`
     },
   ];
 
-  const lastUpdated = 'March 1, 2026';
+  const lastUpdated = 'Request this information here: nobodycares@thegarlic.com';
 </script>
 
 <style>
@@ -419,7 +411,7 @@ We may also share information when required by law, in response to valid legal p
 
       <div class="sidebar-notice" style="margin-top:24px;">
         <div class="sidebar-notice-head">Plain English Summary</div>
-        <p>We collect some data. We use it to run the site. We don't sell it. You can ask us to delete it. We will, eventually. That's broadly it.</p>
+        <p>We collect all of your data, sell it to whomever, and will continue to ignore any feedback.</p>
       </div>
     </aside>
 
@@ -427,7 +419,8 @@ We may also share information when required by law, in response to valid legal p
     <div class="policy-main">
 
       <p class="policy-intro">
-        The Garlic takes your privacy seriously. We take most things seriously — deadlines, editorial standards, the correct spelling of foreign dignitaries' names — with varying degrees of success. Privacy, however, we approach with genuine intention. The following document explains what information we collect, how we use it, and what rights you have with respect to it. We have attempted to write it in plain language. We have not entirely succeeded.
+         To whom it may concern,<br>
+         This is the official privacy policy of The Garlic Consuming Company, information detailing what data we collect, how, and what we do with it is contained in the following sections. The information that follows should be known, we at the garlic take you the user, seriously and respect you deeply our privacy policy reflects this fact.
       </p>
 
       {#each sections as sec, i}
