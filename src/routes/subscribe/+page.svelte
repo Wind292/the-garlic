@@ -881,7 +881,7 @@
 <footer>
   <div class="footer-name">The Garlic</div>
   <div class="footer-links">
-    {#each ['Home','About','Subscribe','Advertising','Contact','Privacy','Terms','Corrections'] as l}
+    {#each ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'] as l}
       <a href="{base}/{l.toLowerCase()}">{l}</a>
     {/each}
   </div>

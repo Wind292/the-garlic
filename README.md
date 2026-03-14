@@ -10,3 +10,8 @@ The Garlic is a satire website that was done for a school project
 `/privacy`
 `/subscribe`
 `/contact`
+`/terms`
+
+TODO
+add articles
+add tags for the articles and make them link properly

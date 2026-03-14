@@ -6,7 +6,7 @@
   });
 
   const navLinks = ['World','Politics','Economy','Technology','Science','Culture','Opinion','Sports'];
-  const footerLinks = ['Home','About','Subscribe','Archive','Advertising','Contact','Privacy','Terms','Corrections'];
+  const footerLinks = ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Privacy Policy';
   let pageKicker = 'Your Data is Ours';

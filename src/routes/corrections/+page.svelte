@@ -6,7 +6,7 @@
   });
 
   const navLinks = ['World','Politics','Economy','Technology','Science','Culture','Opinion','Sports','Subscribe'];
-  const footerLinks = ['Home','About','Subscribe','Advertising','Contact','Privacy','Terms','Corrections'];
+  const footerLinks = ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Corrections';
   let pageKicker = 'Unaccountability & Ignorance';
