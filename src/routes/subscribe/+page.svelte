@@ -79,33 +79,33 @@
   ];
 
   const compareRows = [
-    { label: 'Unlimited digital access',          seedling: false, bulb: true,  grand: true  },
-    { label: 'Full archive (1967-present)',        seedling: false, bulb: true,  grand: true  },
-    { label: 'Weekly newsletter digest',           seedling: true,  bulb: true,  grand: true  },
-    { label: 'Daily briefing & all newsletters',   seedling: false, bulb: true,  grand: true  },
-    { label: 'Subscriber investigations',          seedling: false, bulb: true,  grand: true  },
-    { label: 'Audio editions & podcast feed',      seedling: false, bulb: true,  grand: true  },
-    { label: 'Ad-light experience',                seedling: false, bulb: true,  grand: true  },
-    { label: 'Sunday print edition (delivered)',   seedling: false, bulb: false, grand: true  },
-    { label: 'Subscriber events & talks',          seedling: false, bulb: false, grand: true  },
-    { label: 'Annual Garlic Gala (+ 2 guests)',    seedling: false, bulb: false, grand: true  },
-    { label: 'Masthead credit (annual edition)',   seedling: false, bulb: false, grand: true  },
+    { label: 'Selling all of your data',                seedling: true,  bulb: true,  grand: true  },
+    { label: 'Weekly newsletter digest',                seedling: true,  bulb: true,  grand: true  },
+    { label: 'Daily briefing & all newsletters',        seedling: false, bulb: true,  grand: true  },
+    { label: 'Subscriber investigations',               seedling: false, bulb: true,  grand: true  },
+    { label: 'Audio editions & podcast feed',           seedling: false, bulb: true,  grand: true  },
+    { label: 'Ad-light experience',                     seedling: false, bulb: true,  grand: true  },
+    { label: 'Sunday print edition (delivered)',        seedling: false, bulb: false, grand: true  },
+    { label: 'Subscriber events & talks',               seedling: false, bulb: false, grand: true  },
+    { label: 'Annual Garlic Gala (+ 2 guests)',         seedling: false, bulb: false, grand: true  },
+    { label: 'Masthead credit (annual edition)',        seedling: false, bulb: false, grand: true  },
+    { label: 'Access to the best articles known to man',seedling: false, bulb: false, grand: false  },
   ];
 
   const testimonials = [
     {
-      quote: "I subscribed three years ago thinking it was a cooking newsletter. I have not cancelled. I do not know why. The reporting is confusing and I feel informed.",
-      name: 'D. Ashworth',
+      quote: "I subscribed three years ago thinking it was a cooking newsletter. I have not cancelled. I do not know why. The reporting is confusing and I feel misinformed.",
+      name: 'Not Mrs. Schrader',
       role: 'Bulb subscriber since 2023',
     },
     {
-      quote: "The Grand Garlic tier is genuinely worth it. I went to the Gala. I ate well. I argued with a senator about interest rates. Extraordinary value.",
-      name: 'Prof. M. Calloway',
+      quote: "The Garlic is the best newspaper and it is perfect in every way, I am NOT being forced against my will to say this.",
+      name: 'Free and Totally Autonomous Individual',
       role: 'Grand Garlic subscriber',
     },
     {
       quote: "Every morning I read The Garlic with my coffee. It has not improved my life in any meaningful way.",
-      name: 'M. Ghandi',
+      name: 'Mahatma Ghandi',
       role: 'Bulb subscriber since 2021',
     },
   ];
@@ -117,23 +117,23 @@
     },
     {
       q: 'What is the Garlic Gala?',
-      a: "An annual evening event held in a venue we decline to specify in advance. Dinner is provided. Journalism is discussed. Attendance is, in our view, transformative.",
+      a: "The Garlic Gala is an imaginary but unforgettable evening of glamour and sophistication, where dazzling performances, exquisite cuisine, and sparkling conversation come together under one starlit roof. It promises a night of elegance and indulgence that will linger in memory long after the last toast.",
     },
     {
       q: 'Do you offer student discounts?',
-      a: "Yes. Students with a valid .edu email receive 50% off any tier. We believe in an informed next generation, even if they never read past the headline.",
+      a: "Here at the Garlic we believe in equality. Since students commonly get discounts for other services, we figure it is only fair that they pay their fair share. Students are to pay 400% more on top of the standard rate.",
     },
     {
       q: 'How does the annual billing discount work?',
-      a: "Switching to annual billing saves you approximately 20% versus the monthly rate. The savings are real. The sense of commitment is also real. Both are good.",
+      a: "Annual billing costs 20% more than monthly. Did that not answer your question? Oh well.",
     },
     {
       q: 'Can I share my subscription?',
-      a: "Each subscription supports one account. Household sharing plans are available at a modest additional fee. We do not recommend sharing login credentials; we have a columnist who monitors this.",
+      a: "The Garlic is a buisness that runs on very thick profit margins and we would love to make these margins even larger. So no, account sharing is allowed.",
     },
     {
-      q: 'Is the print edition actually delivered?',
-      a: "Grand Garlic subscribers receive Sunday print delivery within our coverage area. Outside that area, delivery is attempted with a sincerity that outpaces our logistics infrastructure.",
+      q: 'Which Tier is the best value?',
+      a: "The 'Grand Garlic' tier has easily the most value. Mostly because it makes us the most money.",
     },
   ];
 
@@ -747,7 +747,7 @@
     </h1>
     <p class="subscribe-deck">
       Since 1967, The Garlic has delivered reporting of questionable accuracy to readers who deserve
-      to know what may or may not be happening in the world. Choose the plan that suits your appetite.
+      to know what may or may not be happening in the world. Choose the plan that gives us the most money.
     </p>
 
 
