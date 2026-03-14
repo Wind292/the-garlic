@@ -9,7 +9,7 @@
   const footerLinks = ['Home','About','Subscribe','Archive','Advertising','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Privacy Policy';
-  let pageKicker = 'Your Data & Ours';
+  let pageKicker = 'Your Data is Ours';
   let activePage = '';
 
   const sections = [
@@ -51,7 +51,7 @@
     },
   ];
 
-  const lastUpdated = 'March 1, 2026';
+  const lastUpdated = 'Request this information here: nobodycares@thegarlic.com';
 </script>
 
 <style>
@@ -411,7 +411,7 @@
 
       <div class="sidebar-notice" style="margin-top:24px;">
         <div class="sidebar-notice-head">Plain English Summary</div>
-        <p>We collect some data. We use it to run the site. We don't sell it. You can ask us to delete it. We will, eventually. That's broadly it.</p>
+        <p>We collect all of your data, sell it to whomever, and will continue to ignore any feedback.</p>
       </div>
     </aside>
 
