@@ -9,7 +9,7 @@
   const footerLinks = ['Home','About','Subscribe','Advertising','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Corrections';
-  let pageKicker = 'Accountability & Rectification';
+  let pageKicker = 'Unaccountability & Ignorance';
   let activePage = '';
 
   const corrections = [
@@ -516,8 +516,8 @@
   <div class="form-section" id="submit">
     <div class="form-head">Submit a Correction</div>
     <p class="form-deck">
-      Spotted an error? We welcome your scrutiny. All submissions are reviewed by our corrections
-      desk, which is staffed by one person who is doing their best.
+      Spotted an error? We really don't care. All submissions are ignored by our corrections desk. But if you want to go through the motions, be our guest. Just know that the form doesn't actually submit anywhere, and no one will ever see it.
+    
     </p>
 
     {#if formSubmitted}
@@ -539,11 +539,11 @@
         </div>
         <div class="form-field full">
           <label class="form-label" for="article">Article Title or URL</label>
-          <input class="form-input" id="article" type="text" placeholder="Which article contains the error?" bind:value={formArticle}>
+          <input class="form-input" id="article" type="text" placeholder="Which article contains the error? So we can make sure not to fix it." bind:value={formArticle}>
         </div>
         <div class="form-field full">
           <label class="form-label" for="error">Describe the Error</label>
-          <textarea class="form-textarea" id="error" placeholder="Please be specific. We are more receptive to specificity." bind:value={formError}></textarea>
+          <textarea class="form-textarea" id="error" placeholder="Please give a long carefully worded response. We would love to waste more of your time." bind:value={formError}></textarea>
         </div>
         <div class="form-field full">
           <button class="form-submit" on:click={handleSubmit}>Submit Correction</button>
