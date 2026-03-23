@@ -556,9 +556,8 @@
     </div>
   </div>
 
-  <!-- Arts & Culture row -->
+  <!-- Last row -->
   <hr class="front-rule" style="border-color: var(--ink); border-width:1px; margin-bottom:20px;">
-  <div class="edition-label" style="text-align:left; margin-bottom:12px;">Arts, Culture & Ideas</div>
   <div class="arts-row">
     {#each articles.arts as item}
       <div class="arts-item">
