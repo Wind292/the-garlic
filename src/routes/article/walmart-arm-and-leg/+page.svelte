@@ -9,17 +9,17 @@
   const footerLinks = ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'];
 
   const article = {
-    section: 'Technology',
-    headline: 'The Bleak Future of AI',
-    subhead: 'Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta and tells of future plans',
-    byline: 'Ben Coffee',
+    section: 'Social',
+    headline: 'Walmart Offers a New "Arm and a Leg" Promotion',
+    subhead: 'Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.',
+    byline: 'John Sullivan',
     role: 'Editor, The Garlic',
-    date: 'March 22, 2026',
-    readTime: '4 min read',
-    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    imageCaption: 'Image with completely unrelated code on it',
-    imageCredit: 'Photo: Stock',
-    body: `This weekend an anonymous whistleblower from Meta gave a tip to The Garlic. This tip consisted of a set of notes that described the events of a board meeting. The meeting was described as follows: “The senior innovation lead is presenting his new proposal today, he calls it “Pure LN2” Pure LN2 is his plan to riddle Meta sites with as many AI features as possible before inducing brain damage. He has developed this plan at the request of our highly intelligent investors who believe that AI could soon replace the customers themselves and generate infinite money.” Clearly the intentions of this whistleblower were to warn the public of the upcoming tragedy. The tragedy of Meta limiting the number of AI features it shoves in the face of the user, after all, everyone loves talking to a chatbot rather than real people. The whistleblower and The Garlic couldn’t stand to see this plan come to pass without changes, so we have decided to take action through this article. The Garlic is starting the “Save AI” campaign on X later today, follow @thegarlic for info.`
+    date: 'March 23, 2026',
+    readTime: '2 min read',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg',
+    imageCaption: 'Walmart',
+    imageCredit: 'Photo: Walmart storefront from Wikimedia Commons',
+    body: `Admits the rising grocery prices Walmart, the largest supermarket retailer in the US, is offering a new promotion that aims to make groceries more affordable for the average person. In this promotion customers can trade an arm and a leg for $200 off their groceries. This promotion is extremely generous from Walmart as this makes groceries affordable for the average person again, because everyone has arms and legs. In fact most people have two arms and two legs meaning they could get up to $400 off their groceries. Walmart executives say they plan to sell the arms and legs obtained from the promotion to OpenAI who plans to use them for new humanoid-robot technology. Sam Altman says this new technology will have no adverse effects on the existence of mankind. `
   };
 
   const recommended = [

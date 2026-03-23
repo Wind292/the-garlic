@@ -10,15 +10,15 @@
 
   const article = {
     section: 'Technology',
-    headline: 'The Bleak Future of AI',
-    subhead: 'Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta and tells of future plans',
-    byline: 'Ben Coffee',
+    headline: 'How to Spot AI Generated Media',
+    subhead: 'Our experts have curated a short list of the red flags of AI articles, so you know — without exception — if you`re reading an AI article.',
+    byline: 'John Sullivan (Not AI)',
     role: 'Editor, The Garlic',
-    date: 'March 22, 2026',
-    readTime: '4 min read',
-    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    imageCaption: 'Image with completely unrelated code on it',
-    imageCredit: 'Photo: Stock',
+    date: 'March 23, 2026',
+    readTime: '3 min read',
+    image: '',
+    imageCaption: 'None',
+    imageCredit: '',
     body: `This weekend an anonymous whistleblower from Meta gave a tip to The Garlic. This tip consisted of a set of notes that described the events of a board meeting. The meeting was described as follows: “The senior innovation lead is presenting his new proposal today, he calls it “Pure LN2” Pure LN2 is his plan to riddle Meta sites with as many AI features as possible before inducing brain damage. He has developed this plan at the request of our highly intelligent investors who believe that AI could soon replace the customers themselves and generate infinite money.” Clearly the intentions of this whistleblower were to warn the public of the upcoming tragedy. The tragedy of Meta limiting the number of AI features it shoves in the face of the user, after all, everyone loves talking to a chatbot rather than real people. The whistleblower and The Garlic couldn’t stand to see this plan come to pass without changes, so we have decided to take action through this article. The Garlic is starting the “Save AI” campaign on X later today, follow @thegarlic for info.`
   };
 
@@ -33,11 +33,11 @@
     },
     {
       section: 'Technology',
-      headline: "How to Spot AI Generated Media",
-      byline: 'John Sullivan',
+      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
+      byline: 'Priya Nair',
       time: '5 hours ago',
       image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/how-to-spot-ai'
+      url: 'article/placeholder'
     },
     {
       section: 'Science',
@@ -116,6 +116,10 @@
     line-height: 1;
     color: var(--ink);
   }
+  h2 { 
+    font-family: "Libre Baskerville";
+  }
+
   .paper-tagline {
     font-family: 'Libre Baskerville', serif;
     font-size: 11px;
@@ -436,20 +440,32 @@
     </div>
   </div>
 
-  <!-- Image -->
-  <div class="article-image-wrap">
-    <img src={article.image} alt={article.imageCaption} class="article-image">
-    <div class="image-caption-row">
-      <span class="image-caption">{article.imageCaption}</span>
-      <span class="image-credit">{article.imageCredit}</span>
-    </div>
-  </div>
 
   <!-- Body -->
-  <div class="article-body">
-    {#each article.body.split('\n\n') as para}
-      <p>{para}</p>
-    {/each}
+<div class="article-body">
+
+  <h2>1. Em dashes (—)</h2>
+
+<p> AI commonly uses — and often over uses — Em Dashes (—). AI loves to constantly use these like storyteller who can't resist pausing for effect — totally unnecessary. 🙄</p>
+
+<h2>2. Mistaken Copy & Paste 📋</h2>
+
+<p>
+This is a rookie-level AI prompter mistake 🙄. When a human is copying the output of the AI they sometimes make the mistake of copying the follow up questions so something like "If you want, I can show…" at the end of an article is a tell-tale sign of AI generation — clear as glass. 🔍<br>
+Example: "If you want I could create a quick checklist for you to easily identify AI generated content!"
+</p>
+
+<h2>3. Unnecessary Comparisons 🤔</h2>
+<p>
+AI will often use comparisons to things that don't actually add anything but are just there to sound clever. They don't clarify the point they're just decorative — and often corny😅 —.<br>
+Example: "AI loves to constantly use em dashes like storyteller who can't resist pausing for effect".
+</p>
+
+<h2>4. Emojis 😂</h2>
+<p>
+AI loves to use emojis extensively — adding them when totally unnecessary —. Most humans wouldn't take the time to look for the specific emoji that they want to use, AI doesn't have this problem and loves to overuse emojis. 🤖<br><br>
+If you want I could create a quick checklist for you to easily identify AI generated content!😊
+</p>
   </div>
 
   <!-- Recommended -->

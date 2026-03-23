@@ -13,16 +13,18 @@
       byline: 'By Margaret Holloway',
       time: '6 hours ago',
       summary: 'World leaders from 47 nations convened in Geneva this week, emerging with a landmark accord that pledges binding emissions reductions and establishes a $500 billion fund for climate adaptation in developing nations.',
-      image: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=900&q=80'
+      image: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=900&q=80',
+      link: "article/placeholder"
     },
     secondary: [
       {
-        tag: 'Economy',
-        headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-        byline: 'By Thomas Aldridge',
+        tag: 'Social',
+        headline: 'Walmart Offers a New "Arm and a Leg" Promotion',
+        byline: 'By John Sullivan',
         time: '3 hours ago',
-        summary: 'Minutes from the latest FOMC meeting reveal growing consensus that monetary tightening may have reached its peak, with core inflation falling to its lowest level in two years.',
-        image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        summary: 'Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg',
+        link: "article/walmart-arm-and-leg"
       },
       {
         tag: 'Technology',
@@ -35,7 +37,7 @@
       }
     ],
     briefs: [
-      { tag: 'Politics', headline: 'Senate Committee Advances Bipartisan Infrastructure Spending Bill', time: '1 hr ago' },
+      { tag: 'Technology', headline: 'How to Spot AI Generated Media', time: '5 hr ago', link: "how-to-spot-ai" },
       { tag: 'Health', headline: 'WHO Declares End to Mpox Emergency as Global Cases Decline', time: '2 hrs ago' },
       { tag: 'Science', headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments', time: '4 hrs ago' },
       { tag: 'Culture', headline: 'Cannes Jury Awards Palme d\'Or to Iranian Director\'s Debut Feature', time: '7 hrs ago' },
@@ -498,7 +500,7 @@
       <div class="byline">{articles.secondary[0].byline}<span>·</span>{articles.secondary[0].time}</div>
       <p class="body-text">{articles.secondary[0].summary}</p>
       <br>
-      <a href="{base}/article/placeholder" class="read-more">Continue Reading →</a>
+      <a href="{base}/{articles.secondary[0].link}" class="read-more">Continue Reading →</a>
     </div>
 
     <div class="col-divider"></div>
@@ -511,7 +513,7 @@
       <div class="byline">{articles.lead.byline}<span>·</span>{articles.lead.time}</div>
       <p class="body-text drop-cap">{articles.lead.summary}</p>
       <br>
-      <a href="{base}/article/placeholder" class="read-more">Read Full Story →</a>
+      <a href="{base}/{articles.lead.link}" class="read-more">Read Full Story →</a>
     </div>
 
     <div class="col-divider"></div>
@@ -535,7 +537,7 @@
     {#each articles.briefs as brief}
       <div class="brief-item">
         <div class="section-tag">{brief.tag}</div>
-        <h3 class="brief-head"><a href="#" style="color:inherit;text-decoration:none;">{brief.headline}</a></h3>
+        <h3 class="brief-head"><a href="{base}/article/{brief.link}" style="color:inherit;text-decoration:none;">{brief.headline}</a></h3>
         <div class="brief-time">{brief.time}</div>
       </div>
     {/each}
