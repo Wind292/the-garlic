@@ -477,9 +477,9 @@
 
 <!-- Section navigation -->
 <nav class="section-nav">
-  {#each ['World', 'Politics', 'Economy', 'Technology', 'Science', 'Culture', 'Opinion', 'Sports', 'Subscribe'] as s}
-    <a href="{base}/{s.toLowerCase()}">{s}</a>
-  {/each}
+    {#each ['Home', 'About', 'Subscribe', 'Contact', 'Privacy', 'Terms', 'Corrections'] as l}
+      <a href="{base}/{l.toLowerCase()}">{l}</a>
+    {/each}
 </nav>
 
 <!-- Main content -->

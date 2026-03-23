@@ -169,6 +169,7 @@
   }
   .section-nav a:hover { background: var(--red); color: #fff; }
 
+  .section-nav a.active { background: var(--red); color: #fff; }
   /* ── Page wrapper ── */
   .wrapper { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
 
@@ -508,8 +509,8 @@
 
 <!-- Section navigation -->
 <nav class="section-nav">
-  {#each ['World', 'Politics', 'Economy', 'Technology', 'Science', 'Culture', 'Opinion', 'Sports', 'Subscribe'] as s}
-    <a href="{base}/{s.toLowerCase()}">{s}</a>
+  {#each ['Home', 'About', 'Subscribe', 'Contact', 'Privacy', 'Terms', 'Corrections'] as s}
+    <a href="{base}/{s.toLowerCase()}" class:active={s === "Contact"}>{s}</a>
   {/each}
 </nav>
 

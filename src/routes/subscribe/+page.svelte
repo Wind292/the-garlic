@@ -137,7 +137,7 @@
     },
   ];
 
-  const navLinks = ['World','Politics','Economy','Technology','Science','Culture','Opinion','Sports'];
+  const navLinks = ['Home', 'About', 'Subscribe', 'Contact', 'Privacy', 'Terms', 'Corrections'];
 </script>
 
 <style>
@@ -732,9 +732,8 @@
 <!-- Section nav -->
 <nav class="section-nav">
   {#each navLinks as link}
-    <a href="{base}/{link.toLowerCase()}">{link}</a>
+    <a href="{base}/{link.toLowerCase()}" class:active={link === "Subscribe"}>{link}</a>
   {/each}
-  <a href="{base}/subscribe" class="active">Subscribe</a>
 </nav>
 
 <main class="wrapper">

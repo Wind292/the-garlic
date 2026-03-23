@@ -5,12 +5,12 @@
     weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
   });
 
-  const navLinks = ['World','Politics','Economy','Technology','Science','Culture','Opinion','Sports'];
+  const navLinks = ['Home', 'About', 'Subscribe', 'Contact', 'Privacy', 'Terms', 'Corrections']
   const footerLinks = ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'];
 
   let pageTitle = 'Privacy Policy';
   let pageKicker = 'Your Data is Ours';
-  let activePage = '';
+  let activePage = 'pivacy';
 
   const sections = [
     {
@@ -382,7 +382,7 @@
 <!-- Section nav -->
 <nav class="section-nav">
   {#each navLinks as link}
-    <a href="{base}/{link.toLowerCase()}" class:active={link === activePage}>{link}</a>
+    <a href="{base}/{link.toLowerCase()}" class:active={link === "Privacy"}>{link}</a>
   {/each}
 </nav>
 

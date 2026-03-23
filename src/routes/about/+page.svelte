@@ -5,8 +5,8 @@
     weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
   });
 
-  const navLinks = ['World','Politics','Economy','Technology','Science','Culture','Opinion','Sports'];
-  const footerLinks = ['Home','About','Subscribe','Archive','Contact','Privacy','Terms','Corrections'];
+  const navLinks = ['Home', 'About', 'Subscribe', 'Contact', 'Privacy', 'Terms', 'Corrections'];
+  const footerLinks = ['Home','About','Subscribe','Contact','Privacy','Terms','Corrections'];
 
   const staff = [
     {
@@ -152,6 +152,7 @@
     transition: background 0.15s;
   }
   .section-nav a:hover { background: var(--red); color: #fff; }
+  .section-nav a.active { background: var(--red); color: #fff; }
 
   .wrapper { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
 
@@ -484,7 +485,7 @@
 <!-- Nav -->
 <nav class="section-nav">
   {#each navLinks as link}
-    <a href="{base}/{link.toLowerCase()}">{link}</a>
+    <a href="{base}/{link.toLowerCase()}" class:active={link.toLowerCase() === "about"}>{link}</a>
   {/each}
 </nav>
 
