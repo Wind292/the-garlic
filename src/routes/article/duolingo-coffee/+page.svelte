@@ -46,7 +46,7 @@
     "summary": "Downtown vacancy rates in twelve major cities have now exceeded levels unseen since the savings-and-loan crisis of the early nineties. What happens to a city when its center hollows out?",
     "image": base + "/images/blackburn_2.jpg",
     "url": "article/65-game-rule"
-  },
+  }
   ];
 </script>
 
