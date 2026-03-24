@@ -39,8 +39,8 @@
     briefs: [
       { tag: 'Technology', headline: 'How to Spot AI Generated Media', time: '5 hr ago', link: "how-to-spot-ai" },
       { tag: 'Social', headline: 'Student Debt Rebranded as a Lifelong Hobby', time: '2 hrs ago', link: "student-debt-rebrand" },
-      { tag: 'Science', headline: 'Placeholder', time: '4 hrs ago', link: "placeholder" },
-      { tag: 'Culture', headline: 'Cannes Jury Awards Palme d\'Or to Iranian Director\'s Debut Feature', time: '7 hrs ago' },
+      { tag: 'Science', headline: 'Placeholder', time: '4 hrs ago', link: "placeholder", link: "placeholder"  },
+      { tag: 'Culture', headline: 'Cannes Jury Awards Palme d\'Or to Iranian Director\'s Debut Feature', time: '7 hrs ago', link: "placeholder" },
     ],
     opinion: {
       tag: 'Opinion',
@@ -64,7 +64,8 @@
       {
         tag: 'Music',
         headline: 'How a Self-Released Album Became the Sound of the Year',
-        image: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&q=80'
+        image: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&q=80',
+        link: "placeholder"
       }
     ],
 
