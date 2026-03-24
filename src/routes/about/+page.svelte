@@ -23,9 +23,9 @@
   ];
 
   const timeline = [
-    { year: '1967', event: "The Garlic is founded by John Sullivan, Josh List, Craig Keyes, Ben Coffee, and Ryan Blackburn. Starting in John's basement the first garlic issue sells 500 copies."},
+    { year: '1967', event: "The Garlic is founded by John Sullivan, Josh List, Craig Keyes, Ben Coffee, and Ryan Blackburn. Starting in a basement, the first garlic issue sells 500 copies."},
     { year: '1974', event: 'The Garlic reaches 10,000 copies sold.' },
-    { year: '1989', event: 'The Garlic Wins all of the journalism awards' },
+    { year: '1989', event: 'The Garlic wins all of the journalism awards' },
     { year: '1998', event: 'The paper launches its first website, its the best, biggest, most beautiful website.' },
     { year: '2009', event: 'The group members are all born born' },
     { year: '2011', event: 'The Garlic grows to be the most truthful, serious newspaper.' },
