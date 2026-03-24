@@ -125,7 +125,7 @@
     ],
 
     secondOpinion: {
-      tag: 'Opinion',
+      tag: '',
       headline: `You're not hungy its just in your head, get over it`,
       byline: 'Chairman Mao Zedong',
       role: 'Chineese Communist Party Founder',
@@ -758,7 +758,6 @@
   <div class="opinion-band">
     <div class="opinion-label">Truth</div>
     <div>
-      <div class="section-tag" style="color:#c8956c;">{articles.opinion.tag}</div>
       <div class="opinion-head">"{articles.opinion.headline}"</div>
     </div>
     <div class="opinion-author">
@@ -834,9 +833,8 @@
 
   <!-- ── SECOND OPINION BAND ── -->
   <div class="opinion-band" style="margin-bottom: 28px;">
-    <div class="opinion-label">Opinion</div>
+    <div class="opinion-label">Truth</div>
     <div>
-      <div class="section-tag" style="color:#c8956c;">{articles.secondOpinion.tag}</div>
       <div class="opinion-head">"{articles.secondOpinion.headline}"</div>
     </div>
     <div class="opinion-author">
