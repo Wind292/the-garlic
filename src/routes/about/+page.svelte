@@ -24,14 +24,14 @@
   ];
 
   const timeline = [
-    { year: '1967', event: 'The Garlic is founded by Edmund Pryce in a rented office above a dry cleaner in the city centre. First issue sells 340 copies. Pryce considers this a triumph.' },
-    { year: '1974', event: 'Circulation reaches 10,000. The dry cleaner below closes. Pryce has always maintained this was a coincidence.' },
-    { year: '1989', event: 'The Garlic wins its first journalism award. Staff celebrate. The award is later found to have been issued by an organisation Pryce himself founded. The celebration is not rescinded.' },
-    { year: '1998', event: 'The paper launches its first website. It is, by the standards of 1998, quite good.' },
-    { year: '2008', event: 'Edmund Pryce retires. His farewell editorial runs to 6,000 words. The paper prints all of it.' },
-    { year: '2011', event: 'Cornelius Ashby appointed Editor-in-Chief. Circumstances remain undisclosed.' },
-    { year: '2019', event: 'Digital subscriptions exceed print for the first time. The news desk marks the occasion with a cake that said "print is dead" and then felt bad about it.' },
-    { year: '2026', event: 'The Garlic continues. We are as surprised as anyone.' },
+    { year: '1967', event: "The Garlic is founded by John Sullivan, Josh List, Craig Keyes, Ben Coffee, and Ryan Blackburn. Starting in John's basement the first garlic issue sells 500 copies."},
+    { year: '1974', event: 'The Garlic reaches 10,000 copies sold.' },
+    { year: '1989', event: 'The Garlic Wins all of the journalism awards, staff celebrates.' },
+    { year: '1998', event: 'The paper launches its first website, its the best, most beautiful website.' },
+    { year: '2009', event: 'John Sullivan is born' },
+    { year: '2011', event: 'The Garlic grows to be the most truthful, serious newspaper.' },
+    { year: '2019', event: 'The website rises in popularity and would soon skyrocket due to COVID-19.' },
+    { year: '2026', event: 'The Garlic is established.' },
   ];
 </script>
 
