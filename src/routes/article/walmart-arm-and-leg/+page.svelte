@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "How to Spot AI Generated Media",
-      byline: 'John Sullivan',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/how-to-spot-ai'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Social",
+    "headline": "Man Dies After Reading Misleading Headline!",
+    "byline": "Josh List",
+    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
+    "image": base + "/images/joshfinal.png",
+    "url": "article/misleading-headline"
+  },
+{
+    "section": "Technology",
+    "headline": "The Bleak Future of AI",
+    "byline": "Ben Coffee",
+    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "url": "article/the-bleak-future-of-ai"
+  },
+{
+    "section": "Science",
+    "headline": "Genius Doctor Fixes All of Your Problems",
+    "byline": "Josh List",
+    "summary": "Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological",
+    "image": base + "/images/josh_doctor.png",
+    "url": "article/genius-doctor"
+  },
   ];
 </script>
 

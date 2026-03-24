@@ -18,7 +18,7 @@
     image: 'https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageCaption: 'Beautiful Yacht',
     imageCredit: 'Photo: Stock',
-    body: `DAVOS—In a joint statement released Tuesday, the world’s richest individuals assured the public they are “extremely close” to solving global issues such as climate change, poverty, and inequality, but emphasized they will require “just one more trillion dollars to really nail it.” 
+    body: `In a joint statement released Tuesday, the world’s richest individuals assured the public they are “extremely close” to solving global issues such as climate change, poverty, and inequality, but emphasized they will require “just one more trillion dollars to really nail it.” 
 
 “We’re right there,” said one billionaire, gesturing vaguely at a chart labeled “Progress???” “We’ve already accumulated most of the resources. Now we just need slightly more than all of them.” 
 
@@ -30,30 +30,30 @@ At press time, several billionaires were seen solving world hunger by scheduling
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Finance",
+    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
+    "byline": "John Sullivan",
+    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
+    "url": "article/walmart-arm-and-leg"
+  },
+{
+    "section": "Technology",
+    "headline": "The Bleak Future of AI",
+    "byline": "Ben Coffee",
+    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "url": "article/the-bleak-future-of-ai"
+  },
+{
+    "section": "Social",
+    "headline": "Man Dies After Reading Misleading Headline!",
+    "byline": "Josh List",
+    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
+    "image": base + "/images/joshfinal.png",
+    "url": "article/misleading-headline"
+  },
   ];
 </script>
 

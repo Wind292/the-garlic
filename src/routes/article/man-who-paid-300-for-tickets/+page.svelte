@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Economy",
+    "headline": "World's Billionaires Announce They Will Fix Everything, Just Need One More Trillion Dollars",
+    "byline": "Craig Keyes",
+    "summary": "Billionaires can solve our problems with a bold new plan",
+    "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/billionaires"
+  },
+{
+    "section": "Economy",
+    "headline": "World's Billionaires Announce They Will Fix Everything, Just Need One More Trillion Dollars",
+    "byline": "Craig Keyes",
+    "summary": "Billionaires can solve our problems with a bold new plan",
+    "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/billionaires"
+  },
+{
+    "section": "World Affairs",
+    "headline": "U.N. Announces All Future Global Conflicts Will Be Settled On Massive Minecraft Server",
+    "byline": "Craig Keyes",
+    "summary": "World leaders from all nations convened in Geneva this week, emerging with a landmark accord that pledges eliminating all warring conflicts.",
+    "image": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/UN-announces-minecraft-server"
+  },
   ];
 </script>
 

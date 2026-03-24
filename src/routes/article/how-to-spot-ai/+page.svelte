@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "World Affairs",
+    "headline": "U.N. Announces All Future Global Conflicts Will Be Settled On Massive Minecraft Server",
+    "byline": "Craig Keyes",
+    "summary": "World leaders from all nations convened in Geneva this week, emerging with a landmark accord that pledges eliminating all warring conflicts.",
+    "image": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/UN-announces-minecraft-server"
+  },
+{
+    "section": "Economy",
+    "headline": "Local University raises tuition $10,000 to \"fund new student financial aid department\"",
+    "byline": "Ben Coffee",
+    "summary": "A local university has raised its tuition $10,000 at the massive benefit to the students.",
+    "image": "https://images.unsplash.com/20/cambridge.JPG?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2l0eXxlbnwwfHwwfHx8Mg%3D%3D",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Sports",
+    "headline": "Man Who Paid $300 For Tickets Relieved Team Lost",
+    "byline": "Josh List",
+    "summary": "Local fan celebrates costly Jazz collapse as \"big win\" for tanking hopes, praising team for blowing a 31-point loss to boost draft odds.",
+    "image": base + "/images/josh_1.png",
+    "url": "article/University-tuition-increase"
+  },
   ];
 </script>
 

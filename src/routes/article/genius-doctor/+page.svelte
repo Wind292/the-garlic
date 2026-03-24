@@ -22,30 +22,30 @@
   };
 
   const recommended = [
-    {
-        section: 'Economy',
-        headline: 'Walmart Offers a New "Arm and a Leg" Promotion',
-        byline: 'By John Sullivan',
-        time: '3 hours ago',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg',
-        url: "article/walmart-arm-and-leg"
-    },
-    {
-      section: 'Culture',
-      headline: 'Student Debt Rebranded as a Lifelong Hobby', 
-      byline: 'Ryan Blackburn',
-      time: '2 hrs ago', 
-      image: 'https://images.unsplash.com/photo-1554672723-60f4d5d5074f?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      url: 'article/student-debt-rebrand',
-    },
-    {
-        section: 'Sports',
-        headline: 'NBA 65-Game Rule Rebranded as “Participation Trophy Requirement”',
-        byline: 'By Ryan Blackburn',
-        time: '9 hours ago',
-        image: base + '/images/blackburn_2.jpg',
-        url: 'article/65-game-rule'
-    },
+{
+    "section": "Technology",
+    "headline": "The Bleak Future of AI",
+    "byline": "Ben Coffee",
+    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "url": "article/the-bleak-future-of-ai"
+  },
+{
+    "section": "Sports",
+    "headline": "NBA 65-Game Rule Rebranded as \"Participation Trophy Requirement\"",
+    "byline": "Ryan Blackburn",
+    "summary": "Downtown vacancy rates in twelve major cities have now exceeded levels unseen since the savings-and-loan crisis of the early nineties. What happens to a city when its center hollows out?",
+    "image": base + "/images/blackburn_2.jpg",
+    "url": "article/65-game-rule"
+  },
+{
+    "section": "Economy",
+    "headline": "World's Billionaires Announce They Will Fix Everything, Just Need One More Trillion Dollars",
+    "byline": "Craig Keyes",
+    "summary": "Billionaires can solve our problems with a bold new plan",
+    "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/billionaires"
+  },
   ];
 </script>
 

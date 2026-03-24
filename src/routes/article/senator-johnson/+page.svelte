@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Sports",
+    "headline": "NBA 65-Game Rule Rebranded as \"Participation Trophy Requirement\"",
+    "byline": "Ryan Blackburn",
+    "summary": "Downtown vacancy rates in twelve major cities have now exceeded levels unseen since the savings-and-loan crisis of the early nineties. What happens to a city when its center hollows out?",
+    "image": base + "/images/blackburn_2.jpg",
+    "url": "article/65-game-rule"
+  },
+{
+    "section": "Language",
+    "headline": "Man Who Has Completed 867-Day Duolingo Streak Unable To Order Coffee In Mexico",
+    "byline": "Josh List",
+    "summary": "Tourist George Adams, 34, has struggled to order a coffee while visiting Mexico City; despite 867-day Duolingo streak.",
+    "image": base + "/images/josh_mexico.png",
+    "url": "article/duolingo-coffee"
+  },
+{
+    "section": "Social",
+    "headline": "Woman Solves Loneliness by Cutting Off Her Friends",
+    "byline": "Josh List",
+    "summary": "Long troubled by her lack of human connection, Jeanne Jones is proud to report that she has found the solution. She has come up with a new set of rules for deciding who to keep as a friend.",
+    "image": base + "/images/image.png",
+    "url": "article/Lonely-woman"
+  },
   ];
 </script>
 

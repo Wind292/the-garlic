@@ -15,37 +15,37 @@
     role: 'Editor, The Garlic',
     date: 'March 23, 2026',
     readTime: '4 min read',
-    image: base + "/images/image.png",
+    image: `${base}` + "/images/image.png",
     imageCaption: 'Angry woman',
     imageCredit: 'Photo: Stock',
     body: `Long troubled by her lack of human connection, Jeanne Jones is proud to report that she has found the solution. She has come up with a new set of rules for deciding who to keep as a friend. Dubbed the “Generous Guidelines,” they disallow those who do not give weekly gifts to their friends, do not always agree with their friends, do not appear when their friends want them there and do not disappear when their friends want them gone, and do not mold themselves to their friends’ deepest desires which, although poorly communicated, should be easy to understand. Since practicing these rules, Jones has happily told The Garlic that she has since rid herself of everyone leeching off of her good will and of everyone holding her back from the success she deserves. Jones’ former friends would like to wish her good luck in finding friends who will follow these requirements.`
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Technology",
+    "headline": "The Bleak Future of AI",
+    "byline": "Ben Coffee",
+    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "url": "article/the-bleak-future-of-ai"
+  },
+{
+    "section": "Sports",
+    "headline": "Man Who Paid $300 For Tickets Relieved Team Lost",
+    "byline": "Josh List",
+    "summary": "Local fan celebrates costly Jazz collapse as \"big win\" for tanking hopes, praising team for blowing a 31-point loss to boost draft odds.",
+    "image": base + "/images/josh_1.png",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Language",
+    "headline": "Man Who Has Completed 867-Day Duolingo Streak Unable To Order Coffee In Mexico",
+    "byline": "Josh List",
+    "summary": "Tourist George Adams, 34, has struggled to order a coffee while visiting Mexico City; despite 867-day Duolingo streak.",
+    "image": base + "/images/josh_mexico.png",
+    "url": "article/duolingo-coffee"
+  },
   ];
 </script>
 

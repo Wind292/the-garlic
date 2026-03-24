@@ -38,30 +38,30 @@ At press time, several major powers had already begun constructing massive, ques
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Social",
+    "headline": "Man Dies After Reading Misleading Headline!",
+    "byline": "Josh List",
+    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
+    "image": base + "/images/joshfinal.png",
+    "url": "article/misleading-headline"
+  },
+{
+    "section": "Science",
+    "headline": "Genius Doctor Fixes All of Your Problems",
+    "byline": "Josh List",
+    "summary": "Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological",
+    "image": base + "/images/josh_doctor.png",
+    "url": "article/genius-doctor"
+  },
+{
+    "section": "Government",
+    "headline": "Nation's Group Chat Officially Declared Strongest Form Of Government",
+    "byline": "Craig Keyes",
+    "summary": "The US government has declared a group chat its most powerful body",
+    "image": "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?q=80&w=2086&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/nation-government"
+  },
   ];
 </script>
 

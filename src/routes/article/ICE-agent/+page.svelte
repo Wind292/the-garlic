@@ -26,30 +26,30 @@ After the agent was caught on camera attempting to unholster his gun but failing
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Sports",
+    "headline": "Man Who Paid $300 For Tickets Relieved Team Lost",
+    "byline": "Josh List",
+    "summary": "Local fan celebrates costly Jazz collapse as \"big win\" for tanking hopes, praising team for blowing a 31-point loss to boost draft odds.",
+    "image": base + "/images/josh_1.png",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Language",
+    "headline": "Man Who Has Completed 867-Day Duolingo Streak Unable To Order Coffee In Mexico",
+    "byline": "Josh List",
+    "summary": "Tourist George Adams, 34, has struggled to order a coffee while visiting Mexico City; despite 867-day Duolingo streak.",
+    "image": base + "/images/josh_mexico.png",
+    "url": "article/duolingo-coffee"
+  },
+{
+    "section": "Social",
+    "headline": "Man Dies After Reading Misleading Headline!",
+    "byline": "Josh List",
+    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
+    "image": base + "/images/joshfinal.png",
+    "url": "article/misleading-headline"
+  },
   ];
 </script>
 

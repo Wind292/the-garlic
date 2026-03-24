@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "How to Spot AI Generated Media",
-      byline: 'John Sullivan',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/how-to-spot-ai'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Social",
+    "headline": "Man Dies After Reading Misleading Headline!",
+    "byline": "Josh List",
+    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
+    "image": base + "/images/joshfinal.png",
+    "url": "article/misleading-headline"
+  },
+{
+    "section": "Government",
+    "headline": "Nation's Group Chat Officially Declared Strongest Form Of Government",
+    "byline": "Craig Keyes",
+    "summary": "The US government has declared a group chat its most powerful body",
+    "image": "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?q=80&w=2086&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/nation-government"
+  },
+{
+    "section": "Economy",
+    "headline": "Local University raises tuition $10,000 to \"fund new student financial aid department\"",
+    "byline": "Ben Coffee",
+    "summary": "A local university has raised its tuition $10,000 at the massive benefit to the students.",
+    "image": "https://images.unsplash.com/20/cambridge.JPG?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2l0eXxlbnwwfHwwfHx8Mg%3D%3D",
+    "url": "article/University-tuition-increase"
+  },
   ];
 </script>
 

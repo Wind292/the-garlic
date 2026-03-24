@@ -28,30 +28,30 @@ Recently, a major infrastructure bill had been accidentally replaced with a GIF 
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Economy",
+    "headline": "Local University raises tuition $10,000 to \"fund new student financial aid department\"",
+    "byline": "Ben Coffee",
+    "summary": "A local university has raised its tuition $10,000 at the massive benefit to the students.",
+    "image": "https://images.unsplash.com/20/cambridge.JPG?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2l0eXxlbnwwfHwwfHx8Mg%3D%3D",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Sports",
+    "headline": "Man Who Paid $300 For Tickets Relieved Team Lost",
+    "byline": "Josh List",
+    "summary": "Local fan celebrates costly Jazz collapse as \"big win\" for tanking hopes, praising team for blowing a 31-point loss to boost draft odds.",
+    "image": base + "/images/josh_1.png",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Finance",
+    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
+    "byline": "John Sullivan",
+    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
+    "url": "article/walmart-arm-and-leg"
+  },
   ];
 </script>
 

@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Finance",
+    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
+    "byline": "John Sullivan",
+    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
+    "url": "article/walmart-arm-and-leg"
+  },
+{
+    "section": "Technology",
+    "headline": "The Bleak Future of AI",
+    "byline": "Ben Coffee",
+    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "url": "article/the-bleak-future-of-ai"
+  },
+{
+    "section": "Government",
+    "headline": "Nation's Group Chat Officially Declared Strongest Form Of Government",
+    "byline": "Craig Keyes",
+    "summary": "The US government has declared a group chat its most powerful body",
+    "image": "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?q=80&w=2086&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/nation-government"
+  },
   ];
 </script>
 

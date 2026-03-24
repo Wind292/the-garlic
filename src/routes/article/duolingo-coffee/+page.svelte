@@ -23,30 +23,30 @@
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Finance",
+    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
+    "byline": "John Sullivan",
+    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
+    "url": "article/walmart-arm-and-leg"
+  },
+{
+    "section": "Science",
+    "headline": "Genius Doctor Fixes All of Your Problems",
+    "byline": "Josh List",
+    "summary": "Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological",
+    "image": base + "/images/josh_doctor.png",
+    "url": "article/genius-doctor"
+  },
+{
+    "section": "Sports",
+    "headline": "NBA 65-Game Rule Rebranded as \"Participation Trophy Requirement\"",
+    "byline": "Ryan Blackburn",
+    "summary": "Downtown vacancy rates in twelve major cities have now exceeded levels unseen since the savings-and-loan crisis of the early nineties. What happens to a city when its center hollows out?",
+    "image": base + "/images/blackburn_2.jpg",
+    "url": "article/65-game-rule"
+  },
   ];
 </script>
 

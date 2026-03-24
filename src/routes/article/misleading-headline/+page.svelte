@@ -18,34 +18,34 @@
     image: base + "/images/joshfinal.png",
     imageCaption: 'Dies',
     imageCredit: 'Photo: Stock',
-    body: `LOS ANGELES—Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked. He promptly read the article through, noticed the confusion, and returned to a calm and restful state. He now regards the affair as altogether hilarious and undeserving of his concern. After a long conversation with Dies, The Garlic reporters learned that he did not recognize the names or likenesses of either actor involved, but felt that he would miss out on considerable fun if he didn’t form an opinion on the matter. As an avid fan of Cormac McCarthy, Dies asked The Garlic to title his interview with a sentence fragment for a punchier, more moving introduction to the topic. Dies, who has held strong opinions on several matters he later learned were resolved years prior, told The Garlic that he considers himself a careful reader. His wife, Sandra Dies, confirmed this assessment, noting that he had read the headline very carefully indeed before forming his opinion. Asked whether she had read the article herself, Sandra Dies said that she had not, that the headline told her everything she needed, and that she stands by her husband. Dies has since shared the original headline to three separate group chats with the caption "this is insane." He reports that the responses were strong and that nobody has yet clicked through. He considers the matter closed.`
+    body: `Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked. He promptly read the article through, noticed the confusion, and returned to a calm and restful state. He now regards the affair as altogether hilarious and undeserving of his concern. After a long conversation with Dies, The Garlic reporters learned that he did not recognize the names or likenesses of either actor involved, but felt that he would miss out on considerable fun if he didn’t form an opinion on the matter. As an avid fan of Cormac McCarthy, Dies asked The Garlic to title his interview with a sentence fragment for a punchier, more moving introduction to the topic. Dies, who has held strong opinions on several matters he later learned were resolved years prior, told The Garlic that he considers himself a careful reader. His wife, Sandra Dies, confirmed this assessment, noting that he had read the headline very carefully indeed before forming his opinion. Asked whether she had read the article herself, Sandra Dies said that she had not, that the headline told her everything she needed, and that she stands by her husband. Dies has since shared the original headline to three separate group chats with the caption "this is insane." He reports that the responses were strong and that nobody has yet clicked through. He considers the matter closed.`
   };
 
   const recommended = [
-    {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
-    },
-    {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
-    },
+{
+    "section": "Economy",
+    "headline": "Local University raises tuition $10,000 to \"fund new student financial aid department\"",
+    "byline": "Ben Coffee",
+    "summary": "A local university has raised its tuition $10,000 at the massive benefit to the students.",
+    "image": "https://images.unsplash.com/20/cambridge.JPG?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dW5pdmVyc2l0eXxlbnwwfHwwfHx8Mg%3D%3D",
+    "url": "article/University-tuition-increase"
+  },
+{
+    "section": "Social",
+    "headline": "Woman Solves Loneliness by Cutting Off Her Friends",
+    "byline": "Josh List",
+    "summary": "Long troubled by her lack of human connection, Jeanne Jones is proud to report that she has found the solution. She has come up with a new set of rules for deciding who to keep as a friend.",
+    "image": base + "/images/image.png",
+    "url": "article/Lonely-woman"
+  },
+{
+    "section": "Language",
+    "headline": "Man Who Has Completed 867-Day Duolingo Streak Unable To Order Coffee In Mexico",
+    "byline": "Josh List",
+    "summary": "Tourist George Adams, 34, has struggled to order a coffee while visiting Mexico City; despite 867-day Duolingo streak.",
+    "image": base + "/images/josh_mexico.png",
+    "url": "article/duolingo-coffee"
+  },
   ];
 </script>
 
