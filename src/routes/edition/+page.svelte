@@ -682,7 +682,7 @@
 <header class="nameplate">
   <div class="logo-lockup">
     <img src="{base}/images/TheGarlicLogo.png" alt="Garlic Logo" style="width:120px;height:120px;margin-top:-30px;margin-bottom:-30px;margin-right:-20px;" class="logo-mark">
-    <div class="paper-name">The Garlic</div>
+    <div class="paper-name">The Garlic - Online Edition</div>
   </div>
   <div class="paper-tagline">Bias · No Context · Flawed · Est. 1967</div>
   <div class="nameplate-meta">
