@@ -10,8 +10,7 @@
 
   const article = {
     section: 'Science',
-    headline: 'Genius Doctor Fixes All of Your Problems',
-    subhead: 'Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological',
+    headline: 'Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological',
     byline: 'Josh List',
     role: 'Editor, The Garlic',
     date: 'March 23, 2026',
@@ -26,28 +25,28 @@
 
   const recommended = [
     {
-      section: 'Economy',
-      headline: 'Federal Reserve Signals Pause on Rate Hikes Amid Cooling Inflation Data',
-      byline: 'Thomas Aldridge',
-      time: '3 hours ago',
-      image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80',
-      url: 'article/placeholder'
+        section: 'Economy',
+        headline: 'Walmart Offers a New "Arm and a Leg" Promotion',
+        byline: 'By John Sullivan',
+        time: '3 hours ago',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg',
+        url: "article/walmart-arm-and-leg"
     },
     {
-      section: 'Technology',
-      headline: "Silicon Valley's Biggest IPO in a Decade Raises Questions About AI Valuations",
-      byline: 'Priya Nair',
-      time: '5 hours ago',
-      image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80',
-      url: 'article/placeholder'
+      section: 'Culture',
+      headline: 'Student Debt Rebranded as a Lifelong Hobby', 
+      byline: 'Ryan Blackburn',
+      time: '2 hrs ago', 
+      image: 'https://images.unsplash.com/photo-1554672723-60f4d5d5074f?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      url: 'article/student-debt-rebrand',
     },
     {
-      section: 'Science',
-      headline: 'Mars Rover Discovers Organic Compounds in Ancient Lakebed Sediments',
-      byline: 'D. Osei',
-      time: '4 hours ago',
-      image: 'https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=400&q=80',
-      url: 'article/placeholder'
+        section: 'Sports',
+        headline: 'NBA 65-Game Rule Rebranded as “Participation Trophy Requirement”',
+        byline: 'By Ryan Blackburn',
+        time: '9 hours ago',
+        image: base + '/images/blackburn_2.jpg',
+        url: 'article/65-game-rule'
     },
   ];
 </script>
