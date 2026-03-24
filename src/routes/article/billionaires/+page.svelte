@@ -31,28 +31,31 @@ At press time, several billionaires were seen solving world hunger by scheduling
 
   const recommended = [
 {
-    "section": "Finance",
-    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
-    "byline": "John Sullivan",
-    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
-    "url": "article/walmart-arm-and-leg"
+    "section": "World Affairs",
+    "headline": "U.N. Announces All Future Global Conflicts Will Be Settled On Massive Minecraft Server",
+    "byline": "Craig Keyes",
+    "time": "6 hours ago",
+    "summary": "World leaders from all nations convened in Geneva this week, emerging with a landmark accord that pledges eliminating all warring conflicts.",
+    "image": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/UN-announces-minecraft-server"
   },
 {
-    "section": "Technology",
-    "headline": "The Bleak Future of AI",
-    "byline": "Ben Coffee",
-    "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
-    "url": "article/the-bleak-future-of-ai"
+    "section": "Sports",
+    "headline": "NBA 65-Game Rule Rebranded as \"Participation Trophy Requirement\"",
+    "byline": "Ryan Blackburn",
+    "time": "9 hours ago",
+    "summary": "Downtown vacancy rates in twelve major cities have now exceeded levels unseen since the savings-and-loan crisis of the early nineties. What happens to a city when its center hollows out?",
+    "image": base + "/images/blackburn_2.jpg",
+    "url": "article/65-game-rule"
   },
 {
-    "section": "Social",
-    "headline": "Man Dies After Reading Misleading Headline!",
+    "section": "Science",
+    "headline": "Genius Doctor Fixes All of Your Problems",
     "byline": "Josh List",
-    "summary": "Stressed about a misleading headline which seemed to imply that one actor beat another in hand-to-hand combat rather than in competition for an Oscar, local resident Man B. Dies Jr. was shocked",
-    "image": base + "/images/joshfinal.png",
-    "url": "article/misleading-headline"
+    "time": "5 hrs ago",
+    "summary": "Man Who Scored Well On Organic Chemistry Exam In 1987 Confirms Your Relationship With Your Mother Is Pathological",
+    "image": base + "/images/josh_doctor.png",
+    "url": "article/genius-doctor"
   },
   ];
 </script>

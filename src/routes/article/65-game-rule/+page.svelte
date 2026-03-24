@@ -16,7 +16,7 @@
     role: 'Editor, The Garlic',
     date: 'March 23, 2026',
     readTime: '5 min read',
-    image: '/images/blackburn_1.jpg',
+    image: base + '/images/blackburn_1.jpg',
     imageCaption: 'Stars in Danger of Missing',
     imageCredit: 'Image: Bleacher Report ',
     body: `NBA fans were surprised this week to learn that individual awards are no longer based on performance, but rather on meeting a minimum attendance requirement, according to a new report released by voters who have recently discovered how counting works. The report explains that players have been approaching awards incorrectly by focusing on how well they play instead of how often they show up. “That’s where the disconnect is,” the report states. “Being the best player isn’t enough anymore. You also have to be available for a specific number of nights, regardless of what happens during those nights.” Several players have already felt the effects of the rule. “I thought averaging huge numbers would matter,” said one star. “Turns out missing a few games means I’m basically invisible. It’s actually impressive how quickly you can go from MVP candidate to ‘not eligible.’” Voters say the system helps simplify decisions. “It really clears things up,” one voter explained. “Instead of debating who played better, we can just remove anyone who didn’t hit 65 games. It saves a lot of time.” Experts suggest players adjust by prioritizing appearances over everything else, even if it means playing through minor injuries or checking into games briefly just to keep their count up. Some have even floated the idea of players entering games for a few minutes, recording their participation, and then returning to the bench satisfied. The league has defended the rule as a way to reward consistency. Critics, however, note that it has created situations where clearly dominant players are left out of award conversations entirely, replaced by those who simply stayed on the court longer. At press time, one player was reportedly having the best season of his career while carefully watching from the bench, fully aware it no longer counted.`
@@ -24,25 +24,28 @@
 
   const recommended = [
 {
-    "section": "Finance",
-    "headline": "Walmart Offers a New \"Arm and a Leg\" Promotion",
-    "byline": "John Sullivan",
-    "summary": "Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Walmart_Modesto%2C_California.jpg/960px-Walmart_Modesto%2C_California.jpg",
-    "url": "article/walmart-arm-and-leg"
-  },
-{
     "section": "Technology",
     "headline": "The Bleak Future of AI",
     "byline": "Ben Coffee",
+    "time": "1 hour and 7 minutes ago",
     "summary": "Whistleblower gives a peek behind the curtains of a board of directors meeting at Meta",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
     "url": "article/the-bleak-future-of-ai"
   },
 {
+    "section": "Economy",
+    "headline": "World's Billionaires Announce They Will Fix Everything, Just Need One More Trillion Dollars",
+    "byline": "Craig Keyes",
+    "time": "6 hours ago",
+    "summary": "Billionaires can solve our problems with a bold new plan",
+    "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "article/billionaires"
+  },
+{
     "section": "Government",
     "headline": "Nation's Group Chat Officially Declared Strongest Form Of Government",
     "byline": "Craig Keyes",
+    "time": "3 hours ago",
     "summary": "The US government has declared a group chat its most powerful body",
     "image": "https://images.unsplash.com/photo-1508433957232-3107f5fd5995?q=80&w=2086&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "url": "article/nation-government"
