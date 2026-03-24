@@ -30,7 +30,7 @@
     { year: '2009', event: 'The group members are all born born' },
     { year: '2011', event: 'The Garlic grows to be the most truthful, serious newspaper.' },
     { year: '2019', event: 'The website rises in popularity and would soon skyrocket due to COVID-19.' },
-    { year: '2026', event: 'The Garlic is now the biggest newspaper in the world and is highly acclaimed as the most accurate newspaper in the world' },
+    { year: '2026', event: 'The Garlic is now the biggest newspaper in the world and is highly acclaimed as the most accurate newspaper in the world, according to The Garlic' },
   ];
 </script>
 
