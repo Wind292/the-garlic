@@ -1,22 +1,17 @@
-# The Garlic
+## The Garlic
 
 The Garlic is a satire website that was done for a school project
 
-## Sketched Pages
+### TODO
 
-`/`
-`/article/placeholder`
-`/about`
-`/corrections`
-`/privacy`
-`/subscribe`
-`/contact`
-`/terms`
-`/edition`
+Keys's 3 articles
 
-TODO
-
-Craig's 3 articles
 Josh's last 3 articles
+
 About page
+
 Terms page
+
+Most of the Subscribe page 
+
+Icon not working on laptops
