@@ -112,7 +112,7 @@
         byline: 'By John Sullivan',
         time: '4 hours ago',
         summary: 'Walmart has announced a new offering allowing customers to trade in an arm and a leg for discounts on their groceries.',
-        link: 'article/walmart-arm-and-a-leg'
+        link: 'article/walmart-arm-and-leg'
       },
       {
         tag: 'Economy',
