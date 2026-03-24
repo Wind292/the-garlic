@@ -25,12 +25,12 @@
   const timeline = [
     { year: '1967', event: "The Garlic is founded by John Sullivan, Josh List, Craig Keyes, Ben Coffee, and Ryan Blackburn. Starting in John's basement the first garlic issue sells 500 copies."},
     { year: '1974', event: 'The Garlic reaches 10,000 copies sold.' },
-    { year: '1989', event: 'The Garlic Wins all of the journalism awards, staff celebrates.' },
-    { year: '1998', event: 'The paper launches its first website, its the best, most beautiful website.' },
+    { year: '1989', event: 'The Garlic Wins all of the journalism awards' },
+    { year: '1998', event: 'The paper launches its first website, its the best, biggest, most beautiful website.' },
     { year: '2009', event: 'John Sullivan is born' },
     { year: '2011', event: 'The Garlic grows to be the most truthful, serious newspaper.' },
     { year: '2019', event: 'The website rises in popularity and would soon skyrocket due to COVID-19.' },
-    { year: '2026', event: 'The Garlic is established.' },
+    { year: '2026', event: 'The Garlic is now the biggest newspaper in the world and is highly acclaimed as the most accurate newspaper in the world' },
   ];
 </script>
 
@@ -529,7 +529,7 @@
     <div class="history-section">
       <div class="history-label-col">
         <div class="section-kicker">Our History</div>
-        <div class="section-heading">Nearly Six Decades of Getting It Mostly Right</div>
+        <div class="section-heading">Nearly Six Decades of Getting Everything Right All of the Time</div>
       </div>
       <ul class="timeline">
         {#each timeline as entry}
