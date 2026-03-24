@@ -27,7 +27,7 @@
     { year: '1974', event: 'The Garlic reaches 10,000 copies sold.' },
     { year: '1989', event: 'The Garlic Wins all of the journalism awards' },
     { year: '1998', event: 'The paper launches its first website, its the best, biggest, most beautiful website.' },
-    { year: '2009', event: 'John Sullivan is born' },
+    { year: '2009', event: 'The group members are all born born' },
     { year: '2011', event: 'The Garlic grows to be the most truthful, serious newspaper.' },
     { year: '2019', event: 'The website rises in popularity and would soon skyrocket due to COVID-19.' },
     { year: '2026', event: 'The Garlic is now the biggest newspaper in the world and is highly acclaimed as the most accurate newspaper in the world' },
@@ -496,7 +496,7 @@
     <div>
       <div class="mission-label">Who We Are</div>
       <div class="mission-body">
-        <p>The Garlic is the most accurate newspaper in today's age, founded by John Sullivan in 1967 for 59 years, The Garlic has delivered the truth to the public.</p>
+        <p>The Garlic is the most accurate newspaper in today's age. The Garlic has only delivered the truth to the public for 59 years since its founding in 1967.</p>
         <p>The Garlic is an independent newspaper, we aren't owned by any corporation, we don't follow any political party, we just aim to deliver truthful journalism.</p>
         <p>We employ journalists across two different class periods, our goal is to deliver you a diverse selection of articles that are truthful and accurate.</p>
       </div>
@@ -510,16 +510,16 @@
       <div class="stat-label">years in print</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">2.4m</div>
+      <div class="stat-number">8.3b</div>
       <div class="stat-label">monthly readers</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">34</div>
-      <div class="stat-label">staff journalists</div>
+      <div class="stat-number">5</div>
+      <div class="stat-label">editors</div>
     </div>
     <div class="stat-item">
-      <div class="stat-number">2</div>
-      <div class="stat-label">journalism awards</div>
+      <div class="stat-number">like, a lot</div>
+      <div class="stat-label">of journalism awards</div>
     </div>
   </div>
 
