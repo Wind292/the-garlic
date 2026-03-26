@@ -129,7 +129,7 @@
     },
     {
       q: 'Can I share my subscription?',
-      a: "The Garlic is a buisness that runs on very thick profit margins and we would love to make these margins even larger. So no, account sharing is not allowed.",
+      a: "The Garlic is a business that runs on very thick profit margins and we would love to make these margins even larger. So no, account sharing is not allowed.",
     },
     {
       q: 'Which Tier is the best value?',
@@ -745,7 +745,7 @@
       A Great Service at an Even Better Price 
     </h1>
     <p class="subscribe-deck">
-      Since 1967, The Garlic has delivered reporting of questionable accuracy to readers who deserve
+      Since 1967, The Garlic has delivered reporting of absolutely perfect accuracy to readers who deserve
       to know what may or may not be happening in the world. Choose the plan that gives us the most money.
     </p>
 
@@ -814,7 +814,7 @@
     <div class="guarantee-icon">⚑</div>
     <div class="guarantee-text">
       <strong>30-Day Disatisfaction Guarantee</strong>
-      Not satisfied? We don't care, no refunds are availible. 
+      Not satisfied? We don't care, no refunds are available. 
     </div>
   </div>
 
